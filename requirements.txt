@@ -45,4 +45,4 @@ wget==3.2
 xmltodict==0.12.0
 youtube_transcript_api
 pytube
-CLIP
+clip
